@@ -28,4 +28,4 @@ From raw data cleaning to a 4-page interactive Power BI dashboard.
 - Clothing and Books generate more revenue than Electronics and Home
 
 ## Screenshots
-Dashboard.pdf
+Screenshots.pdf
